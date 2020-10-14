@@ -27,7 +27,7 @@ namespace blugin\traits\selffactory;
 
 trait SelfFactoryTrait{
     /** @var self[] */
-    protected static $instances = [];
+    protected static array $instances = [];
 
     /** @var mixed|null */
     protected static $defaultKey = null;
