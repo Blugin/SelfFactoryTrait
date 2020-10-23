@@ -3,6 +3,6 @@ name: SelfFactoryTrait
 antigen: blugin\traits\selffactory
 version: 1.0.0
 api: 3.0.0
-authors: ['Blugin-team', 'PresentKim']
-description: "Trait for self factory class"
+authors: [PresentKim, Blugin-team]
+description: Trait for self factory class
 ...
