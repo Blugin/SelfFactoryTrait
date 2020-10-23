@@ -1,5 +1,5 @@
 ---
-name: SelfFactoryTrait
+name: self-factory-trait
 antigen: blugin\traits\selffactory
 version: 1.0.0
 api: 3.0.0
