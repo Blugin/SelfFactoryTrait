@@ -22,7 +22,7 @@
 
 declare(strict_types=1);
 
-namespace blugin\traits\selffactory;
+namespace kim\present\traits\selffactory;
 
 trait SelfFactoryTrait{
     /** @var self[] */
